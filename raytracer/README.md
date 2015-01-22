@@ -7,7 +7,9 @@ make
 
 Examples:
 ./raytracer images/input-01.txt
+
 ./raytracer images/input-02.txt
+
 ... up to 05
 
 Example images from piazza:
