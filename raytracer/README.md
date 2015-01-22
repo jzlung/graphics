@@ -5,7 +5,7 @@ To run:
 make
 ./raytracer [FILE]
 
-Examples:
+Examples:\n
 ./raytracer images/input-01.txt
 
 ./raytracer images/input-02.txt
