@@ -1,8 +1,6 @@
 ###phong
 Implements the Phong Illumination Model (by hand, minimal OpenGL) to light a sphere. The scene is set with point and directional lights, and the object can have coefficients for ambient, diffuse, and specular reflection. 
 
-Run 'make'  and then ./example_01 with these arguments:
-
 • -ka r g b
 This is the ambient color coefficients of the sphere material. The parameters r g b are numbers
 between 0 and 1 inclusive.

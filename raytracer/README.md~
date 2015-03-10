@@ -2,10 +2,10 @@
 Ray Tracer is a multipart functional graphics generator that creates image by shooting rays through a screen into the scene. Takes a scene file which includes a sphere and lights.
 
 To run:
-make  
+make
 ./raytracer [FILE]
 
-Examples:  
+Examples:
 ./raytracer images/input-01.txt
 
 ./raytracer images/input-02.txt
